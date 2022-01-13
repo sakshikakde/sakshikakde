@@ -6,8 +6,7 @@
 #### 😄 Pronouns: She/her/hers
 #### 📫 How to reach me: kakdesakshi@gmail.com
 #### 👩🏻‍💼 My linkedin profile: <a href="https://www.linkedin.com/in/sakshikakde/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-[![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshikakde&show_icons=true&theme=radical)](https://github.com/sakshikakde/github-readme-stats) 
-
+[![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshikakde)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
