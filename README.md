@@ -6,6 +6,10 @@
 - 📫 How to reach me: kakdesakshi@gmail.com
 - 👩🏻‍💼 My linkedin profile: <a href="https://www.linkedin.com/in/sakshikakde/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sakshikakde&&style=flat-square" align="center" />
+</div>
+
 
 
 
