@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - 👧 I am Sakshi, an aspiring roboticist. 
-- 👩‍🎓 I am currently pursuing my masters at the University of Maryland, College Park.
+- 👩‍🎓 Graduate Student at the University of Maryland, College Park.
 - 👩‍💻 I am interested in robot perception and computer vision.
 - 😄 Pronouns: She/her/hers
 - 📫 How to reach me: kakdesakshi@gmail.com
